@@ -1,2 +1,1 @@
-# mtc-repo-infra
-terraform-Code for MTC
+dev terraform repository for infra developers.
